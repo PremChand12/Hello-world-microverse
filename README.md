@@ -69,6 +69,13 @@ For more information on the importance of a professional README for your reposit
 ## 🛠 Built With <a name="built-with">VS CODE EDITOR</a>
 
 ### Tech Stack <a name="tech-stack">HTML & CSS</a> 
+  <details>
+    <summary>Client</summary>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+    </ul>
+  </details>
 
 ### Key Features <a name="key-features"></a> 
 
