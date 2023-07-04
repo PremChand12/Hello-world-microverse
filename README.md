@@ -79,7 +79,7 @@ For more information on the importance of a professional README for your reposit
 
 ### Key Features <a name="key-features"></a> 
 
-- **[Displays Hello-Microverse text on web page]**
+Displays Hello-Microverse text on web page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +103,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: cd my-folder
 
 <!--
 Example commands:
@@ -116,7 +116,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+Install this project with: cd my-project
 
 <!--
 Example command:
@@ -129,7 +129,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, use code editor e.g Visual Studio
 
 <!--
 Example command:
@@ -141,7 +141,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, use Visual Studio Live Server
 
 <!--
 Example command:
