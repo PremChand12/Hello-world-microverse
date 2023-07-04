@@ -170,7 +170,7 @@ Example:
 👤 **Prem Chand**
 
 - GitHub: [@githubhandle](https://github.com/PremChand12)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@twitterhandle](https://twitter.com/Chandu1111112)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/prem-chand-maddati-15a69a1a8/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
