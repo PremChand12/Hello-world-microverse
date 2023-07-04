@@ -217,7 +217,7 @@ If you like this project please support the project by adding your contributions
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my coding partner Nouman Walli who discussed the technical areas with me.
+I want to thank my coding partner Nouman Walli who discussed the technical areas with me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,12 +227,8 @@ I would like to thank my coding partner Nouman Walli who discussed the technical
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project has no license.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
