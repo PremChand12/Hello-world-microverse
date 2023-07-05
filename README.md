@@ -126,12 +126,9 @@ I want to thank my coding partner Nouman Walli who discussed the technical areas
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
+  
+This project is [MIT](MIT.md) licensed.
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
-
-#### Original design idea by **Cindy Shin in Behance**, in association with the Creative Commons [license](./MIT.md) of the design.
 <br />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
