@@ -26,7 +26,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -128,6 +127,11 @@ I want to thank my coding partner Nouman Walli who discussed the technical areas
 
 ## 📝 License <a name="license"></a>
 
-This project has no license.
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
+#### Original design idea by **Cindy Shin in Behance**, in association with the Creative Commons [license](./MIT.md) of the design.
+<br />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
